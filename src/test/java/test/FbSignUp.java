@@ -15,7 +15,7 @@ public class FbSignUp {
 		// TODO Auto-generated method stub
 			
 
-			// Launch the Google.com
+			// Launch the Google.com (link)
 			WebDriver driver = new ChromeDriver();
 							
 			//Launch the browser
